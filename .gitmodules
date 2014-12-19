@@ -1,0 +1,3 @@
+[submodule "powerspy.scala"]
+	path = powerspy.scala
+	url = https://github.com/Spirals-Team/powerspy.scala
