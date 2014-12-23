@@ -1,7 +1,6 @@
 [submodule "powerspy.scala"]
 	path = powerspy.scala
 	url = https://github.com/Spirals-Team/powerspy.scala
-
 [submodule "powerspy.py"]
 	path = powerspy.py
 	url = https://github.com/patrickmarlier/powerspy.py
